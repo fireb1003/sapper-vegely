@@ -1,3 +1,3 @@
-# sapper-starter
+# sapper-vegely
 
-playin master
+Color Pallete : https://colorhunt.co/palette/167040
