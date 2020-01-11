@@ -1,4 +1,5 @@
 ---
-title:"مشروعات لها"
+title: "TITLE_HERE"
+cover: "COVER_SVG"
 ---
-تجربة المشروعات التجارية النسوية
+CONTENT
